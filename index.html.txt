@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tubarão - Animal de Estimação</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tubarão - O Animal de Estimação Perfeito</h1>
+    </header>
+
+    <section>
+        <h2>Características do Tubarão</h2>
+        <p>O tubarão é um animal marinho impressionante, conhecido por sua força e agilidade.</p>
+        <ul>
+            <li>Habitat: Oceanos</li>
+            <li>Alimentação: Carnívoro</li>
+            <li>Expectativa de vida: 20-30 anos</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Descubra mais sobre os tubarões e como cuidar deles como animais de estimação.</p>
+    </footer>
+</body>
+</html>
